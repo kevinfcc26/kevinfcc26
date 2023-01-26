@@ -17,16 +17,9 @@ My name is Dan, and I'm from Argentina. Currenly I'm a Lead Developer at Light-i
 
 ## 🔭 I’ve worked on:
   
-  [eyelet](https://eyelet.org/)
-  
-  [Tiendanube](https://tiendanube.com/)
-  
-  [Simplenight](https://www.simplenight.com/)
 
 ## 🌱 I’m currently learning
-![](https://img.shields.io/badge/Code-NodeJS-nformational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 <!--
 **DanTcheche/DanTcheche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
