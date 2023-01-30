@@ -1,6 +1,6 @@
 
 # Hello, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-My name is Dan, and I'm from Argentina. Currenly I'm a Lead Developer at Light-it. Working in Django and Vue.js mainly.
+my name is Kevin
 
 ## Technologies and tools:
 
@@ -22,7 +22,7 @@ My name is Dan, and I'm from Argentina. Currenly I'm a Lead Developer at Light-i
 
 
 <!--
-**DanTcheche/DanTcheche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kevinfcc26/kevinfcc26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
